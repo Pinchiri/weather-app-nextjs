@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { MdSunny } from "react-icons/md";
 import { MdMyLocation } from "react-icons/md";
